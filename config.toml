@@ -1,0 +1,8 @@
+[theme]
+base = "dark"
+
+primaryColor = "#8B5CF6"                # Vibrant Indigo/Purple accent
+backgroundColor = "#0F172A"             # Deep Navy/Slate (Not pure black)
+secondaryBackgroundColor = "#1E293B"     # Slightly lighter Slate for the sidebar/cards
+textColor = "#F8FAFC"                   # Soft, crisp off-white for easy reading
+font = "sans serif"
